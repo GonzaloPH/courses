@@ -147,6 +147,5 @@ For active certifications (CWES, BSCP, CISM, CISA, CRISC, ISO 31000 LRM), visit 
 
 ## 📫 Contact
 
-- **Email:** gon_parra_h@outlook.com
 - **LinkedIn:** [linkedin.com/in/gonzalo-parra-h](https://www.linkedin.com/in/gonzalo-parra-h)
 - **Credly:** [credly.com/users/gonzalo-parra/badges](https://www.credly.com/users/gonzalo-parra/badges)
