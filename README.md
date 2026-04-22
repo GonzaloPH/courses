@@ -10,6 +10,16 @@ For active certifications (CWES, BSCP, CISM, CISA, CRISC, ISO 31000 LRM), visit 
 
 ---
 
+## AI & Prompt Engineering
+
+| # | Course | Platform | Date | Verify |
+|---|---|---|---|---|
+| 1 | Claude AI | Platzi | Apr 2026 | [🔗](https://platzi.com/p/gonzalo-parra/curso/12651-claude/diploma/detalle/) |
+| 2 | Gemini | Platzi | Mar 2026 | [🔗](https://platzi.com/p/gonzalo-parra/curso/12546-gemini/diploma/detalle/) |
+| 3 | Prompt Engineering | Platzi | Jan 2026 | [🔗](https://platzi.com/p/gonzalo-parra/curso/12323-prompt-engineering/diploma/detalle/) |
+
+---
+
 ## Offensive Security & Penetration Testing
 
 ### PentesterLab — [Public Profile](https://pentesterlab.com/profile/2962e60a6862cf520e04139a90)
@@ -90,16 +100,6 @@ For active certifications (CWES, BSCP, CISM, CISA, CRISC, ISO 31000 LRM), visit 
 | 4 | Introduction to AWS for Non-Engineers: 2 Security | LinkedIn | Jul 2022 | [🔗](https://www.linkedin.com/learning/certificates/680ada36cbf1edf72be3703f234a56fae322ef9d6969a40171330859955eb791) |
 | 5 | Introduction to AWS for Non-Engineers: 3 Core Services | LinkedIn | Aug 2022 | [🔗](https://www.linkedin.com/learning/certificates/76a4909c2cbead5268d752dbf6a61e74004c98cc419ac8d4515a208efd03294e) |
 | 6 | Introduction to AWS for Non-Engineers: 4 Billing and Pricing | LinkedIn | Aug 2022 | [🔗](https://www.linkedin.com/learning/certificates/5d89156ca3f9db0325146c17745f36f038415ed114569f37ace8d547b84d14a8) |
-
----
-
-## AI & Prompt Engineering
-
-| # | Course | Platform | Date | Verify |
-|---|---|---|---|---|
-| 1 | Claude AI | Platzi | Apr 2026 | [🔗](https://platzi.com/p/gonzalo-parra/curso/12651-claude/diploma/detalle/) |
-| 2 | Gemini | Platzi | Mar 2026 | [🔗](https://platzi.com/p/gonzalo-parra/curso/12546-gemini/diploma/detalle/) |
-| 3 | Prompt Engineering | Platzi | Jan 2026 | [🔗](https://platzi.com/p/gonzalo-parra/curso/12323-prompt-engineering/diploma/detalle/) |
 
 ---
 
